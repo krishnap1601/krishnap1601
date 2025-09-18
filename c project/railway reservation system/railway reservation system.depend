@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757578499 source:c:\krishna\c project\railway reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
